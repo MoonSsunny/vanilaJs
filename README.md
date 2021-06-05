@@ -15,3 +15,25 @@
 * 반응형으로 UI 생성
 
 - npm run start > local host: 3000에서 작동
+### Main Page
+
+> 실시간 차트를 보여주고 ,  top 12개를 보여준다
+ 
+<img src = "https://user-images.githubusercontent.com/62421526/120884105-e72f8580-c61b-11eb-91b7-3b10f0168b5f.PNG" alt="img_website1">
+<img src = "https://user-images.githubusercontent.com/62421526/120884107-e72f8580-c61b-11eb-84b1-5e6c2c75bb4f.PNG" alt="img_website1">
+<img src = "https://user-images.githubusercontent.com/62421526/120884108-e7c81c00-c61b-11eb-8c47-641907172ad9.PNG" alt="img_website1">
+
+### Sub Page
+
+> 메뉴 subpage를 보여준다
+
+<img src = "https://user-images.githubusercontent.com/62421526/120884110-e860b280-c61b-11eb-8038-ddba58af320f.PNG" alt="img_website1">
+<img src = "https://user-images.githubusercontent.com/62421526/120884111-e860b280-c61b-11eb-8a7f-ef9bfc7a7cc0.PNG" alt="img_website1">
+<img src = "https://user-images.githubusercontent.com/62421526/120884112-e8f94900-c61b-11eb-8b9f-57b5077a84f3.PNG" alt="img_website1">
+<img src = "https://user-images.githubusercontent.com/62421526/120884113-e8f94900-c61b-11eb-8257-5a9445458eb5.PNG" alt="img_website1">
+
+### 반응형
+
+> 반응형으로 사이트 크기에 따라 다시 변동시킨다
+
+<img src = "https://user-images.githubusercontent.com/62421526/120884102-e565c200-c61b-11eb-9ce2-8772b450ed1a.PNG" alt="img_website1">
