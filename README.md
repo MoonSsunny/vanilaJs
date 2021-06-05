@@ -1,5 +1,3 @@
-# ZUM 과제
-
 ## Vanila Javascript로 SPA 만들기
 
 ### node express 사용
@@ -17,12 +15,3 @@
 * 반응형으로 UI 생성
 
 - npm run start > local host: 3000에서 작동
-
-> 구현하지 못한 부분
-
-- 웹팩과 바벨 설정을 진행했는데 main.js에서 api값오류 발생
-- 웹팩을 이용하여 랜더링을 진행하면 오류가 발생.
-
-* npm run dev / npm run build 하면 오류가 발생
-* 즐겨찾기 부분 구현못함
-* 상세페이지
